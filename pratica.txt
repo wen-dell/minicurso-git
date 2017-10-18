@@ -1,1 +1,3 @@
 ﻿Arquivo do minicurso
+
+Usando o git diff
